@@ -1,0 +1,23 @@
+# Skills Template
+- layout: left
+  name: Develop
+  #  dates: Date Range (eg. 2016 - 2019)
+  #  qualification: Qualifications (eg. BA Performing Arts)
+  #  quote: >
+  #    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Java
+    - Spring boot
+    - JPA
+    - Node.js
+    - Git
+- layout: left
+  name: Infra
+  #  dates: Date Range (eg. 2016 - 2019)
+  #  qualification: Qualifications (eg. BA Performing Arts)
+  #  quote: >
+  #    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - AWS EC2
+    - RDS
+    - S3

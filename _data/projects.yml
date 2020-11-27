@@ -1,9 +1,64 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+- layout: left
+  name: 스터디마우스
+  dates: 2020.07
+  github: https://github.com/professor-lol/professor-lol
+  #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  qualification: >
+    영단어 번역 및 저장 크롬 익스텐션
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    역할 : 로그인 관련 API 작성, 소셜 로그인 구현
+
+    기술 : Java8, Spring Boot, JPA, queryDsl, Spring Security, git flow, docker, ainize
+
+    - Spring Security 를 이용한 소셜 로그인 구현
+    - User 도메인 및 관련 API 구현
+
+- layout: left
+  name: Professor-lol
+  dates: 2019.07 ~ 2020.02
+  github: https://github.com/professor-lol/professor-lol
+  #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  qualification: >
+    리그오브레전드 패치노트 구독 웹서비스
+  description: | # this will include new lines to allow paragraphs
+    역할 : 챔피언 정적 데이터 분석 및 저장, 회원 모스트 챔피언 조회 및 설정 API 구현
+
+    기술 : Java 8, Spring boot, JPA, gradle 멀티모듈, queryDsl, JUnit4, gitflow, travis CI, AWS CodeDeploy
+
+    - Gradle 기반의 멀티모듈 프로젝트, JPA 기반의 도메인 주도 개발
+    - queryDsl 사용, 동적 쿼리작성 활용 및 컴파일 타임 쿼리 문법오류 체크
+    - JaCoCo 적용으로 테스트 커버리지 70% 유지 및 CI/CD 적용
+    - gitflow 브랜치 전략을 통한 형상관리
+
+
+- layout: left
+  name: 리딧(ReadIt)
+  dates: 2019.09
+  github: https://github.com/read-it/ReadIt-Server
+  #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  qualification: >
+    콘텐츠 저장 및 관리서비스
+  description: | # this will include new lines to allow paragraphs
+    역할 : 콘텐츠 및 카테고리 관리 API 구현
+
+    기술 : Node.Js, nginx, MySQL, AWS EC2, RDS, S3, FireBase
+
+    - Firebase를 이용하여 푸시 알람 구현
+    - JWT 토큰을 이용한 통신 인증
+
+- layout: left
+  name: MeowBox
+  dates: 2018.09
+  github: https://github.com/read-it/ReadIt-Server
+  #  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  qualification: >
+    고양이 수제간식 및 필수 용품 정기배송 서비스
+  description: | # this will include new lines to allow paragraphs
+    역할 : 주문관련 API 작성, 정기배송 일자 구하는 로직 구현
+
+    기술 : Node.Js, nginx, MySQL, MongoDB ,I’mport, AWS EC2, RDS, S3
+
+    - I’m port 서비스를 이용한 결제 시스템 구현
+    - MongoDB 기반의 홈조회 화면 데이터 구성
+    - nginx proxy 서버 설정

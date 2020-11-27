@@ -1,0 +1,22 @@
+# more about me Template
+- layout: left
+  name: 학력
+  #  dates: Date Range (eg. 2016 - 2019)
+  #  qualification: Qualifications (eg. BA Performing Arts)
+  #  quote: >
+  #    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - 숭실대학교 컴퓨터학부 전공
+    - 2013.03 ~ 2020.02(졸업)
+    - 학점 3.28 / 4.5
+
+- layout: left
+  name: 수상경력
+  #  dates: Date Range (eg. 2016 - 2019)
+  #  qualification: Qualifications (eg. BA Performing Arts)
+  #  quote: >
+  #    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - 21기 SOPT APPJAM 대상 (안드로이드)
+    - 22기 SOPT APPJAM 대상 (서버)
+    - 2018 SK 스마트 관광 앱개발 공모전 장려상 (안드로이드)

@@ -1,9 +1,18 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: NextStep
+  dates: 2020.05 ~ 2020.07
+  qualification: TDD, Clean Code, Refactoring 8기 과정
+  #  quote: >
+  #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    기술 : Java8, Junit5
+    - 주어진 4개의 미션을 8주간 진행
+    - 주어진 요구사항을 구현하는데 TDD 와 클린코드 규칙을 지키며 구현
+    - 각 미션의 여러 스텝은 요구사항 구현 후 코드리뷰를 받고 다음 스텝으로 넘어가거나 코드리뷰 사항을 리팩토링하고 넘어가는 방식으로 강의 진행
+      - 미션
+        - [Racing Car](https://github.com/Gobukgol/java-racingcar/tree/gobukgol)
+        - [Lotto](https://github.com/Gobukgol/java-lotto/tree/gobukgol)
+        - [Ladder](https://github.com/Gobukgol/java-ladder/tree/gobukgol)
+        - [Bowling](https://github.com/Gobukgol/java-bowling/tree/gobukgol)
+

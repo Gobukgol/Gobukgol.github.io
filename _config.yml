@@ -1,37 +1,39 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Gobukgol.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: 이민형
+title: Java Backend Developer
+email: zxczc159@gmail.com
+phone: 010-7473-8455
+website: https://javabom.tistory.com
+github: https://github.com/gobukgol
+teamblog: https://javabom.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+#twitter_username: jekyllrb
+github_username: gobukgol
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+##instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,15 +46,26 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  안녕하세요 테스트 코드와 클린코드를 좋아하는 개발자 이민형입니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  현재 참여하고 있는 스터디에서 테스트코드, 클린코드, 코드리뷰를 처음 접하고 관심을 갖게되었습니다.
+
+  NextStep의 TDD, 클린코드, 리팩토링 강의를 수강하여 더 코드를 객체지향적으로 짜려는 노력을 하고있습니다.
+
+  또한 개발 역량을 키우기위해 스터디에 참여하고 개발서적을 읽고있습니다.
+
+  이런 노력을 바탕으로 코드로 동료들과 대화 할 수 있는 개발자가 되고싶습니다.
+
+
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,9 +79,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

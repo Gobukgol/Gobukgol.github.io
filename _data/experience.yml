@@ -1,10 +1,19 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Javabom 스터디
+  github: https://github.com/javabom
+  qualification: 객체지향 언어인 자바, 클린코드, 테스트코드를 학습하는 스터디
+  #  job_title: Job title
+  dates: 2019.02 ~ Present
+  #  quote: >
+  #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - 클린코드 프로그래밍 - OOP, TestCode, CleanCode 기반의 페어프로그래밍
+      - 기술 : Java 8, JUnit 5, Spring boot, JPA, h2
+      - 클린코드규칙 (인덴트 2까지 허용, 엔티티의 크기는 최소화, 네이밍 축약금지 등)에 맞춰 요구사항을 페어 프로그래밍으로 해결
+      - 객체지향과 테스트코드 적용
+      - 순수 자바프로그래밍, Spring boot + JPA 기반의 게시판 구현
+    - 책을 읽읍시다 - Reading Record
+      - 도서 : 객체지향의 사실과 오해, 이펙티브 자바, 토비의 스프링
+      - Github 프로젝트와 이슈를 활용한 이력 관리 [link]( https://github.com/Java-Bom/ReadingRecord)
+      - 예제코드 작성 및 Java 코드 분석
