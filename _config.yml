@@ -7,7 +7,7 @@ name: 이민형
 title: Java Backend Developer
 email: zxczc159@gmail.com
 phone: 010-7473-8455
-website: https://javabom.tistory.com
+#website: https://javabom.tistory.com
 github: https://github.com/gobukgol
 teamblog: https://javabom.tistory.com
 
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username: gobukgol
+#github_username: gobukgol
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -84,7 +84,7 @@ more_content: | # this will include new lines to allow paragraphs
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
